@@ -5,17 +5,6 @@
  * This class is a bare bones bootp deamon.
  * The bootp protocol is described in RFC-951.
  * 
- * Author Dennis Kuppens
- * 9 June 2007
- *
- * Platform Win32
- *
- * This software is provided 'as-is', without any express or implied
- * warranty.  In no event will the authors be held liable for any damages
- * arising from the use of this software.
- *
- * The source code is based on the work of 
- * Ivan Tikhonov [www.brokestream.com/wordpress/category/netboot/] 
  */
 
 #include "Bootpd.h"
